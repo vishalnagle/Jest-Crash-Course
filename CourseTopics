@@ -1,0 +1,20 @@
+Video url https://www.youtube.com/watch?v=ajiAl5UNzBU
+
+Topics:
+
+1.Matcher Methods
+
+toBe(),toEqual() etc
+
+2.Testing async functions
+
+3.Setup and teardown tests
+
+beforeEach(),afterEach(),beforeAll(),afterAll()
+
+4.Mocks
+
+
+To run test use "npm test"
+
+
